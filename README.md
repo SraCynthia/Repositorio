@@ -1,3 +1,3 @@
 # Repositório
- Primeiro repositório versionado git/github
+ Primeiro repositório versionado git/github.
  
